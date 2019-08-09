@@ -1,22 +1,22 @@
 export const products = [
     {
       name: 'Orange',
-      price: 1.00,
+      price: 1,
       description: 'Fruit'
     },
     {
       name: 'Carrot',
-      price: 0.99,
+      price: 1,
       description: 'Vegetable'
     },
     {
       name: 'Sirloin steak',
-      price: 11.0,
+      price: 11,
       description: 'Meat'
     },
     {
       name: 'Test product',
-      price: 11.0,
+      price: 12,
       description: ''
     }
   ];
